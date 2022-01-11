@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the user is able to login</description>
+   <name>Portal Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf339d32-239b-4b8f-917f-8b13efb93be2</testCaseGuid>
+</TestCaseEntity>
